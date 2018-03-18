@@ -681,5 +681,4 @@ def str_to_set(text):
             prev += i
     return set1
 
-# hey
 open_window1()
